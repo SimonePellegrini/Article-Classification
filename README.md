@@ -1,7 +1,7 @@
 # News Article Classification
 
 Multiclass classification of news articles into 7 categories, using the article text, title, source and PageRank.
-Project by **Simone Pellegrini** (Politecnico di Torino, student id s361840).
+Project by **Simone Pellegrini** (Politecnico di Torino).
 
 ## Task
 
